@@ -15,4 +15,4 @@
 * Detetion Presentation Failures Using Image Prosessing Tequnique
 
 ### How to reach me
-📧: okajima.work\[at\]gmain.com
+📧: okajima.work\[at\]gmail.com
