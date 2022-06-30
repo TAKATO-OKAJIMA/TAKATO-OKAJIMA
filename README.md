@@ -12,7 +12,7 @@
 #### Category
 * Software Engineering(Regression Testing)
 #### Theme
-* Detetion Presentation Failures Using Image Prosessing Tequnique
+* Detection Presentation Failures Using Image Processing Tequnique
 
 ### How to reach me
 📧: okajima.work\[at\]gmail.com
